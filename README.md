@@ -29,6 +29,8 @@ lmp < 1.in   # Run non-shielded drug simulation
 lmp < 2.in   # Run shielded drug simulation
 ```
 
+
+
 📁 simulation_project
  ├── 📄 README.md        # This documentation
  ├── 📄 1.in             # LAMMPS input file (non-shielded drug)
