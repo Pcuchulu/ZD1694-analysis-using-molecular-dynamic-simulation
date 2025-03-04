@@ -29,6 +29,9 @@ lmp < 1.in   # Run non-shielded drug simulation
 lmp < 2.in   # Run shielded drug simulation
 ```
 
+![1](https://github.com/user-attachments/assets/baf00433-11a0-4195-99c1-a6aaca1dc378)
+![2](https://github.com/user-attachments/assets/24d48926-ab01-4615-b543-69583862367b)
+
 
 
 📁 simulation_project
